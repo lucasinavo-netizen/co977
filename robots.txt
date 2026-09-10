@@ -1,3 +1,4 @@
 User-agent: *
+Disallow: /go/
 Allow: /
 Sitemap: https://co977.com/sitemap.xml
